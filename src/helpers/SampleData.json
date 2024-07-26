@@ -1,0 +1,37 @@
+[
+  {
+    "id":"1",
+    "name": "Interview preparation with JavaScript 2.0",
+    "image": "interview_prep.png",
+    "price": "Rs. 9000/-",
+    "type": "Course"
+  },
+  {
+    "id":"2",
+    "name": "Aptitude - Averages, Mixtures & Allegation",
+    "image": "apti1.png",
+    "price": "Free",
+    "type": "Mock Test"
+  },
+  {
+    "id":"3",
+    "name": "Aptitude - Simple & Compound Interest",
+    "image": "apti2.png",
+    "price": "Free",
+    "type": "Mock Test"
+  },
+  {
+    "id":"4",
+    "name": "Aptitude - Partnership",
+    "image": "apti3.png",
+    "price": "Free",
+    "type": "Mock Test"
+  },
+  {
+    "id":"5",
+    "name": "Aptitude - Time & Work",
+    "image": "apti3.png",
+    "price": "Free",
+    "type": "Mock Test"
+  }
+]
